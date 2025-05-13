@@ -1,0 +1,38 @@
+{
+    "primary_color": "#006994",
+    "secondary_color": "#008080",
+    "accent_color": "#ff6b6b",
+    "font_family": "Segoe UtI Semibold",
+    "font_size": 12,
+    "company_name": "Vetri Vinayaga Traders",
+    "company_address": "Sengundhar Mahal, Thiruvika Nagar, Chinnasalem, Kallakurichi Dt-606201",
+    "company_phone": "9080013157, 9942191481",
+    "gstin": "33CUPPM4345DIZM",
+    "bank_details": {
+        "name": "City Union Bank",
+        "account": "500101011688022",
+        "ifsc": "CIUB0000561",
+        "branch": "Chinnasalem"
+    },
+    "tax_rates": {
+        "sgst": 0.0,
+        "igst": 0.0
+    },
+    "auto_backup": true,
+    "backup_location": "C:\\Users\\Udhaya\\BillingSystemBackups",
+    "default_printer": "",
+    "default_customer": {
+        "name": "hjdvsf",
+        "mobile": "vhbhj",
+        "place": "vjbh",
+        "address": "jhvb"
+    },
+    "bg_color": "#e6f7ff",
+    "text_color": "#003366",
+    "company_email": "vetrivinayagatraders@gmail.com",
+    "company_website": "www.vetrivinayagatraders.com",
+    "auto_save": false,
+    "auto_save_interval": 5,
+    "default_theme": "Ocean",
+    "low_stock_threshold": 10
+}

@@ -1,0 +1,60 @@
+[
+    {
+        "invoice_number": 2,
+        "date": "26-04-2025",
+        "customer": {
+            "name": "ewjfnh",
+            "mobile": "jndsofn",
+            "place": "njdsn",
+            "address": "noqdoqwndf"
+        },
+        "bill_type": "Credit Bill",
+        "products": [
+            {
+                "sno": "1",
+                "hsn": "ewifjo",
+                "description": "nofqwqwd",
+                "price": "52.00",
+                "quantity": "9",
+                "total": "468.00"
+            }
+        ],
+        "totals": {
+            "subtotal": "468.00",
+            "sgst": "42.12",
+            "igst": "42.12",
+            "roundoff": "-0.24",
+            "total": "552.00"
+        },
+        "pdf_path": "D:/Desktop/Projects/billing_system/Invoice_0002_26042025.pdf"
+    },
+    {
+        "invoice_number": 3,
+        "date": "26-04-2025",
+        "customer": {
+            "name": "ewjfnh",
+            "mobile": "jndsofn",
+            "place": "njdsn",
+            "address": "noqdoqwndf"
+        },
+        "bill_type": "Cash Bill",
+        "products": [
+            {
+                "sno": "1",
+                "hsn": "jb",
+                "description": "vgh",
+                "price": "54.00",
+                "quantity": "5",
+                "total": "270.00"
+            }
+        ],
+        "totals": {
+            "subtotal": "270.00",
+            "sgst": "24.30",
+            "igst": "0.00",
+            "roundoff": "-0.30",
+            "total": "294.00"
+        },
+        "pdf_path": "D:/Desktop/Projects/billing_system/Invoice_0003_26042025.pdf"
+    }
+]
